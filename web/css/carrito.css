@@ -1,0 +1,19 @@
+#productosCarrito{
+    height: 50px;
+    width: 40%;
+    background-color: lightcyan;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#botones{
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 3px;
+}
+

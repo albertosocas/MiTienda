@@ -1,0 +1,25 @@
+[
+    {
+    "codigo": "0",
+    "nombre":"Producto0",
+    "precio":"21.23"
+    },
+    
+    {
+    "codigo": "1",
+    "nombre":"Producto1",
+    "precio":"2.23"
+    },
+    
+    {
+    "codigo": "2",
+    "nombre":"Producto2",
+    "precio":"3.23"
+    },
+    
+    {
+    "codigo": "3",
+    "nombre":"Producto3",
+    "precio":"4.23"
+    }
+]
