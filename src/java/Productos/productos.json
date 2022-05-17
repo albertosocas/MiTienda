@@ -20,6 +20,12 @@
     {
     "codigo": "3",
     "nombre":"Producto3",
+    "precio":"3.53"
+    },
+    
+    {
+    "codigo": "4",
+    "nombre":"Producto4",
     "precio":"4.23"
     }
 ]

@@ -49,7 +49,7 @@ public class Catalogo {
         try{
 
             JSONParser parser = new JSONParser();
-            JSONArray a = (JSONArray) parser.parse(new FileReader("C:\\Users\\alber\\OneDrive\\Documentos\\NetBeansProjects\\MiTienda\\src\\java\\Productos\\productos.json"));
+            JSONArray a = (JSONArray) parser.parse(new FileReader("C:\\Users\\alber\\Desktop\\21-22\\PS\\MiTienda\\build\\web\\WEB-INF\\classes\\Productos\\productos.json"));
             
             for(Object o:a){
                 JSONObject producto = (JSONObject) o;
